@@ -1,76 +1,66 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Arda+👋;Frontend+Focused+Engineer+%7C+React+Lover;Crafting+modern+UIs+for+real-world+needs!" alt="Typing SVG" />
-</p>
+<style>
+  .highlight {
+    font-weight: 600;
+    color: #0d6efd;
+  }
+  .section-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 1.5em;
+    color: #1f2937;
+  }
+  .bullet {
+    margin-left: 1rem;
+    padding-left: 0.5rem;
+  }
+</style>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="250"/>
-</p>
+<h1 align="center">👋 Hi, I'm <span class="highlight">Arda Baş</span></h1>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Engineering graduate  
-- 🎨 Passionate about clean UI, accessible components, and scalable design systems  
-- 🛠 Currently building:  
-  - 🦷 A full-featured dental clinic website using **React**, **Framer Motion**, and **Firebase Auth**  
-  - 🌐 A dynamic recipe app inspired by *nefisyemektarifleri.com* with user favorites, comments, and ratings  
-- 🧠 I love turning complex data and workflows into intuitive user experiences  
-- ✨ I build solo, design with empathy, and enjoy collaborating with teams across the stack
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-EF0178?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-</p>
+<p align="center">🚀 Frontend-Focused Computer Engineer | React Enthusiast | Real-World Developer</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdaBass&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdaBass&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArdaBass&theme=tokyonight&column=7" />
-</p>
+- 🎓 <span class="highlight">Computer Engineer</span> with practical experience in:
+  - 🖼️ <strong>Frontend:</strong> React, JavaScript, CSS (Flexbox, Grid, Responsive Design)
+  - 🔧 <strong>Backend:</strong> .NET, SQL
+  - 🧠 <strong>AI:</strong> Python (Data processing, basic ML pipelines)
 
 ---
 
-## 📌 Featured Frontend Projects
+### 🔧 Currently Building
 
-- 🦷 **[Dental Clinic Website](https://github.com/ArdaBass)**  
-  A modern, animated React site for a real dental clinic – built with component-based architecture, routing, and responsive design
-
-- 🍽 **[acarlapisir](https://github.com/ArdaBass)**  
-  Recipe-sharing platform with Firebase backend, dynamic routing, favorites, and interactive UI
-
-- ⚡ **[my-awesome-app (JS)](https://github.com/ArdaBass/my-awesome-app)**  
-  Lightweight starter app for JavaScript-based frontend prototypes
+🦷 **[Dental Clinic Website](https://github.com/ArdaBass)**  
+A fully responsive React project with Firebase Auth and Framer Motion — real-world use case for a client.
 
 ---
 
-## 🌐 Let's Connect
+### 💡 What I Bring
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ardabass/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+- ✅ Pixel-perfect **UI implementation**
+- ✅ Scalable frontend architecture with **React**
+- ✅ Backend skills with **.NET** and **SQL**
+- ✅ Agile mindset and end-to-end delivery capability
 
 ---
 
-<img src="https://raw.githubusercontent.com/Akshay090/svg-background/main/wave1.svg" />
+### 🛠 Tech Stack
+
+| Frontend        | Backend        | Tools & Cloud        | AI & Data       |
+|-----------------|----------------|-----------------------|------------------|
+| React           | .NET           | Firebase, Vercel      | Python, Pandas   |
+| JavaScript      | FastAPI        | Azure Blob Storage    | NumPy, SciPy     |
+| CSS, Framer     | SQL Server     | Git, GitHub Actions   | Matplotlib       |
+
+---
+
+### 📬 Contact
+
+📧 **Email:** [ardabash@gmail.com](mailto:ardabash@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/arda-baş](https://www.linkedin.com/in/arda-ba%C5%9F-001717229)
+
+---
+
+> 📍 Based in <strong>Istanbul, Türkiye</strong> — Open to collaboration and software opportunities!
