@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Arda+👋;Computer+Engineer+%7C+React+%2B+FastAPI+Developer;I+love+building+clean+%26+functional+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Arda+👋;Frontend+Focused+Engineer+%7C+React+Lover;Crafting+modern+UIs+for+real-world+needs!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,11 +12,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering graduate  
-- 🔬 Currently building:  
-  - 🩺 [CapstoneHRV](https://github.com/ArdaBass/CapstoneHRV) — ECG signal analyzer with Swift  
-  - 🍽 [Recipe Web App](https://github.com/ArdaBass) — React + Firebase clone of *nefisyemektarifleri.com*  
-- 🧠 Interested in: Machine learning, React animations, full-stack apps  
-- ✨ Fun Fact: I build solo and collaborate fast — from backend APIs to responsive UIs!
+- 🎨 Passionate about clean UI, accessible components, and scalable design systems  
+- 🛠 Currently building:  
+  - 🦷 A full-featured dental clinic website using **React**, **Framer Motion**, and **Firebase Auth**  
+  - 🌐 A dynamic recipe app inspired by *nefisyemektarifleri.com* with user favorites, comments, and ratings  
+- 🧠 I love turning complex data and workflows into intuitive user experiences  
+- ✨ I build solo, design with empathy, and enjoy collaborating with teams across the stack
 
 ---
 
@@ -24,11 +25,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF0178?style=flat&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -50,16 +51,16 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Frontend Projects
 
-- 💡 [CapstoneHRV](https://github.com/ArdaBass/CapstoneHRV)  
-  ECG + HRV analyzer with Swift + CSV exports + Apple Watch support
+- 🦷 **[Dental Clinic Website](https://github.com/ArdaBass)**  
+  A modern, animated React site for a real dental clinic – built with component-based architecture, routing, and responsive design
 
-- 🔐 [LoginAppppp (Java)](https://github.com/ArdaBass/LoginAppppp)  
-  Java-based role-based login system
+- 🍽 **[acarlapisir](https://github.com/ArdaBass)**  
+  Recipe-sharing platform with Firebase backend, dynamic routing, favorites, and interactive UI
 
-- ⚡ [my-awesome-app (JS)](https://github.com/ArdaBass/my-awesome-app)  
-  A web app starter with JavaScript + clean UI
+- ⚡ **[my-awesome-app (JS)](https://github.com/ArdaBass/my-awesome-app)**  
+  Lightweight starter app for JavaScript-based frontend prototypes
 
 ---
 
@@ -73,4 +74,3 @@
 ---
 
 <img src="https://raw.githubusercontent.com/Akshay090/svg-background/main/wave1.svg" />
-
