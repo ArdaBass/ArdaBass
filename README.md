@@ -1,49 +1,59 @@
-# 👋 Hi, I'm **Arda Baş**
+# 👋 Hi, I'm Arda Baş
 
-🚀 *Frontend-Focused Computer Engineer* | *React Enthusiast* | *Real-World Developer*
+### 🚀 AI Engineer & Researcher | M.S. Computer Engineering @ Boğaziçi University
 
----
-
-## 🧑‍💻 About Me
-
-🎓 **Computer Engineer** with practical experience in:
-- 🖼️ **Frontend**: React, JavaScript, CSS (Flexbox, Grid, Responsive Design)
-- 🔧 **Backend**: .NET, SQL
-- 🧠 **AI**: Python (data processing, basic ML pipelines)
+I am a **Computer Engineer** specializing in the intersection of **Signal Processing, Generative AI, and Biometrics**. Currently pursuing my Master’s at **Boğaziçi University**, my work focuses on transforming raw, complex data into intelligent, secure, and scalable solutions.
 
 ---
 
-## 🔧 Currently Building
+## 🧠 Core Focus & Research
 
-🦷 **[Dental Clinic Website](https://github.com/ArdaBass)**  
-A fully responsive React project for a real clinic, using **Firebase Auth** and **Framer Motion**.
+- 🧬 **Biometric Identification**: Developing deep learning systems for secure user authentication using unique **ECG signatures**.
+- ✨ **Generative AI & Data Augmentation**: Building ML models to synthesize high-fidelity **ECG/PPG signals**, improving data quality and model robustness.
+- 🤖 **NLP & LLMs**: Researching and deploying Large Language Models and AI-driven conversational agents.
+- 🧪 **Biomedical Engineering**: Signal cleaning, feature extraction, and **Heart Rate Variability (HRV)** analysis.
 
 ---
 
-## 💡 What I Bring
+## 🔧 Key Projects
 
-- ✅ Pixel-perfect **UI implementation**
-- ✅ Scalable frontend architecture with **React**
-- ✅ Solid backend skills in **.NET** and **SQL**
-- ✅ Agile team experience & full-cycle project delivery
+### 🛡️ [ECG Biometric Security](https://github.com/ArdaBass)
+Developing a software suite that utilizes unique cardiac patterns for high-security user identification, moving beyond traditional fingerprint/face-ID methods.
+
+### 📈 [Synthetic Medical Data Generation](https://github.com/ArdaBass)
+Designed a machine learning pipeline to synthesize "real-world" quality medical signals (ECG/PPG) to solve data scarcity issues in clinical AI training.
+
+### 💬 [Corporate HR Chatbot](https://github.com/ArdaBass)
+Built during my time at **Aktek Bilişim**, this NLP-driven chatbot automates internal queries and streamlines corporate data retrieval.
+
+### 🧩 [Educational Mobile Project](https://github.com/ArdaBass)
+A dedicated mobile application designed during my undergraduate studies to support children with learning difficulties through interactive UI/UX.
 
 ---
 
 ## 🛠 Tech Stack
 
-| **Frontend**        | **Backend**      | **Cloud & Tools**        | **AI & Data**       |
-|---------------------|------------------|---------------------------|----------------------|
-| React               | .NET             | Firebase, Vercel          | Python, Pandas       |
-| JavaScript          | FastAPI          | Azure Blob Storage        | NumPy, SciPy         |
-| CSS, Framer Motion  | SQL Server       | Git, GitHub Actions       | Matplotlib           |
+| **AI & Machine Learning** | **Data & Signals** | **Backend & Tools** | **Frontend** |
+| :--- | :--- | :--- | :--- |
+| **PyTorch, Scikit-learn** | **NumPy, Pandas** | **Python, FastAPI** | **React** |
+| **LLMs (HuggingFace)** | **SciPy, Matplotlib** | **SQL Server, PostgreSQL** | **JavaScript** |
+| **Generative Models (GANs)**| **Signal Processing** | **Git, Docker, Firebase** | **Framer Motion** |
 
 ---
 
-## 📬 Contact
+## 🎓 Education & Honors
 
-- 📧 **Email**: [ardabash@gmail.com](mailto:ardabash@gmail.com)  
+- 🏛 **M.S. Computer Engineering** – Boğaziçi University (Ongoing)
+- 🎓 **B.S. Computer Engineering** – Bahçeşehir University (Minor in Industrial Engineering)
+
+
+---
+
+## 📬 Connect with Me
+
+- 📧 **Email**: [ardabash@gmail.com](mailto:ardabash@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/arda-baş](https://www.linkedin.com/in/arda-ba%C5%9F-001717229)
+- 📍 Based in **Istanbul, Türkiye**
 
 ---
 
-> 📍 Based in **Istanbul, Türkiye** — Open to collaboration and new opportunities.
