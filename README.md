@@ -17,16 +17,16 @@ I am a **Computer Engineer** specializing in the intersection of **Signal Proces
 
 ## 🔧 Key Projects
 
-### 🛡️ [ECG Biometric Security](https://github.com/ArdaBass)
+### 🛡️ [ECG Biometric Security]
 Developing a software suite that utilizes unique cardiac patterns for high-security user identification, moving beyond traditional fingerprint/face-ID methods.
 
-### 📈 [Synthetic Medical Data Generation](https://github.com/ArdaBass)
+### 📈 [Synthetic Medical Data Generation]
 Designed a machine learning pipeline to synthesize "real-world" quality medical signals (ECG/PPG) to solve data scarcity issues in clinical AI training.
 
-### 💬 [Corporate HR Chatbot](https://github.com/ArdaBass)
+### 💬 [Corporate HR Chatbot]
 Built during my time at **Aktek Bilişim**, this NLP-driven chatbot automates internal queries and streamlines corporate data retrieval.
 
-### 🧩 [Educational Mobile Project](https://github.com/ArdaBass)
+### 🧩 [Educational Mobile Project]
 A dedicated mobile application designed during my undergraduate studies to support children with learning difficulties through interactive UI/UX.
 
 ---
